@@ -1,4 +1,6 @@
 tryton-module-boilerplate
 =========================
 
-Tryton module boilerplate
+tryton Module Boilerplate. For documentation go to: http://tryton-documentation.rtfd.org
+
+
