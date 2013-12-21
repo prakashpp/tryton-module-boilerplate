@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<data>
+    <xpath expr="//notebook" position="inside">
+        <page string="Employee" id="employee">
+            <label name="dob"/>
+            <field name="dob"/>
+        </page>
+    </xpath>
+</data>
